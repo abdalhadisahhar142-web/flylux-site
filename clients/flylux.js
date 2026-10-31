@@ -15,7 +15,7 @@ window.SITE = {
   brand: {
     name: "FlyLux Travel & Tourism",
     logoText: "Flylux",
-    mark: "",
+    mark: "images/favicon.png",
     logo: "images/logo.webp",
     logoWithText: true,   // اللوغو مع اسم "Flylux" جنبه
     favicon: "images/favicon.png"
